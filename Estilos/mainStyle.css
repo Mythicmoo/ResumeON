@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed&display=swap');
+
+body{            
+    background-color: rgb(20, 18, 29);
+    margin: 0px;
+}
+a.topButton{
+    text-decoration: none;
+    display: inline-block;   
+    margin-right: 20px;
+    margin-left: 20px;
+    color:rgb(243, 243, 243) ;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 1.3em;
+    padding: 9.5px;   
+}
+a.topButton:hover{
+   color: brown;
+}
+div.topColorLine{
+    border-radius: 0px;
+    max-width: 1192px;
+    min-width: 320px;
+    height: 2.5px;
+    background-color: brown;
+    
+}
+div#pagina > div#liks{
+    background-color: rgb(33, 29, 48);
+    max-width: 1192px;
+    min-width: 320px;
+    height: 45px;    
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    text-align: left;
+    text-decoration: none;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.267);        
+}
+hr#topHr{
+    margin-bottom: 0px;
+    margin-top: 17.875px;
+}
+div#pagina > picture> img{
+    margin-top: 1.5%;
+    width: 22%;    
+}
+hr{
+    margin: 0px;
+}
+div#pagina{
+    background-color: rgb(243, 243, 243);
+    max-width: 1192px;
+    min-width: 320;
+    height: auto;
+    margin: auto;
+    margin-bottom: 15px;
+    box-shadow: 0px 0px 17px black;
+    border-radius: 3px;    
+    text-align: center;
+    padding: 0px;                       
+}
+main{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    padding: 7px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    color: rgb(27, 27, 27);
+}
+section > div#podline{
+    border-radius: 0px;
+    max-width: 1192px;
+    min-width: 320px;
+    height: 2.5px;
+    background-color: rgb(207, 207, 207);
+}
+section{
+    margin: auto;
+    margin-top: 3.2px;
+    margin-left:  3.2px;
+    margin-right: 3.2px;
+    background-color: rgb(250, 250, 250);
+    max-width: 1192px;
+    min-width: 320;
+    border-radius: 5px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.11);   
+}
+h1, h2{
+    font-family:'Times New Roman', Times, serif;
+    margin: 7px;
+    margin-top: 3px;
+    margin-bottom: 0px;
+    margin-left: 5px;    
+}
+h2:hover, h1:hover{
+    color: brown;
+}
+p{
+    margin: 5px;
+    margin-bottom: 0px;
+    padding-bottom: 7px;
+    margin-left: 5px;
+}
