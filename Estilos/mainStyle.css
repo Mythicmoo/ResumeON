@@ -1,6 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed&display=swap');
-
 body{            
     background-color: rgb(20, 18, 29);
     margin: 0px;
@@ -62,6 +59,7 @@ div#pagina{
     padding: 0px;                       
 }
 main{
+    background-color:rgb(233, 233, 233) ;
     font-family: 'Times New Roman', Times, serif;
     text-align: justify;
     padding: 7px;
